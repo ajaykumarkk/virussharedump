@@ -11,5 +11,6 @@ What you need
   
  How to run:
   1. Download the hashdumpdownload.py 
-  2. run using the command 
-       python hashdumpdownload.py 
+  2. run using the command average run time > 1.5hrs
+     
+          python hashdumpdownload.py 
