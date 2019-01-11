@@ -47,7 +47,7 @@ if isfile("newhashes.txt"):
 
 dbCreate()
 # Find all possible files
-for i in range(3, 350):
+for i in range(0, 350):
     print("Trying https://virusshare.com/hashes/VirusShare_{0}.md5...".format(
         str(i).zfill(5)))
     try:
