@@ -7,11 +7,11 @@ Insctructions:
   
 What you need:
 
-    Python 3.x
+   1. Python 3.x
 
-    urllib module 
+   2. urllib module 
 
-    sqllite
+   3. sqllite
   
  How to run:
  
