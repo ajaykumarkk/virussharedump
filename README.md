@@ -5,13 +5,13 @@ Insctructions:
 
   The hashes are updated weekly but you can manually build the hashes db offline yourself as well.
   
-What you need
+What you need:
 
-  Python 3.x
-  
-  urllib module 
-  
-  sqllite
+    Python 3.x
+
+    urllib module 
+
+    sqllite
   
  How to run:
  
