@@ -1,8 +1,3 @@
-"""
-This module is used for generating the file containing all the hashes
-
-To use it, execute `python generate.py`
-"""
 from os import remove as rmfile
 from urllib.request import urlretrieve
 from urllib.error import URLError, HTTPError
